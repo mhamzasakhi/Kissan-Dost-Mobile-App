@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "273628743631",
+    "firebase_url": "https://kissan-help-e069b.firebaseio.com",
+    "project_id": "kissan-help-e069b",
+    "storage_bucket": "kissan-help-e069b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273628743631:android:557590abc5d1c7a10ff4ba",
+        "android_client_info": {
+          "package_name": "com.my.kissandost"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273628743631-qsilmmcgf3f37kk32n7tfp5pibfkjt11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrePmspVSCWE-1JzFL9oI6HzXFtKyKq-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273628743631-qsilmmcgf3f37kk32n7tfp5pibfkjt11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
