@@ -8,6 +8,7 @@ system presents an online display of an order cut off time and an associated del
 selected by the customer. The aim of this project is to make a farmer’s friendly shopping site where
 farmers act as vendors. Normal shopping sites enable only the website owner to sell their products but
 this platform enables every farmer to sell their products.
+
 KISSAN DOST is a farmer-friendly interface where farmers can sell their farm products at a
 profitable price. Basically, it’s a shopping site where customers can buy fruits, vegetables and crops
 directly from farmers. This online shopping site provides farmers with an option of filling their goods
